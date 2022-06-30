@@ -1,3 +1,9 @@
+<style>
+  .footer {
+    display: none;
+  }
+</style>
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jonatmottmac/jonatmottmac.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
